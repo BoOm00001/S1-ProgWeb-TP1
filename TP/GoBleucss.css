@@ -1,0 +1,199 @@
+
+.header{
+
+    border: 5px solid black;
+    background-color: grey;
+
+}
+.header h1{
+
+    margin-left: 42%;
+}
+
+li{
+display: inline;
+margin-right: 5px  ;
+font-size: 1em;
+}
+li a{
+
+    color: black;
+}
+
+ul{
+
+    margin-left: 41%;
+    padding: 0%;
+
+}
+
+.images{
+
+    margin-top: 10px ;
+}
+
+
+ article{
+
+    background-color: white;
+
+}
+
+body{
+
+    background-color: rgb(71, 65, 65);
+}
+
+.titrearticle{
+padding-left: 3%;
+padding-right: 3%;
+
+    background-color:rgb(71, 65, 65);
+    color: white;
+    
+}
+
+img.img2{
+
+  margin-left: 7%;  
+  border: 2px solid white;
+
+}
+
+img.img3{
+
+    border: 2px solid white;
+  
+  }
+
+img.bonair{
+
+    margin-left: 10%;
+    border: 2px solid white;
+
+}
+
+footer p{
+
+    text-align: center;
+    background-color: grey;
+    height: 200px;
+    padding-right: 250px;
+
+}
+
+nav li{
+    display: inline;
+    font-size: 1em;
+    text-align: center;
+}
+
+table{
+
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-bottom: 30%;
+    
+}
+th.colgauche{
+
+    width: 15%;
+}
+
+.coldroite{
+
+    width: 15%;
+
+}
+
+th.coût{
+
+    text-align: center;
+
+}
+
+td {
+
+    border: 1px solid black;
+    color: white;
+
+}
+
+th{
+
+    border: 1px solid black;
+    color: white;
+}
+
+.prix{
+
+    text-align: center;
+}
+
+.nbDepersone{
+
+    text-align: center;
+
+}
+caption{
+    caption-side:top;
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+.choiMultiple0{
+
+    display: flex;
+}
+
+.choiMultiple1{
+
+    display: flex;
+
+
+}
+
+.options1{
+
+    display: block;
+    padding-left: 0%;
+}
+
+.options2{
+
+    display: block;
+    padding-left: 0%;
+}
+
+h1.titreDuTableau{
+
+    text-align: center;
+}
+
+textarea#commentaire{
+
+    width: 400px;
+}
+
+input.boites{
+
+
+    width: 300px;
+
+}
+
+label{
+
+    font: 20px bolder;
+}
+
+form{
+
+    width: 1300px;
+}
+
+
+
+
+
